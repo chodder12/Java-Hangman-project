@@ -1,0 +1,10 @@
+method
+constructor
+static
+comment
+intiger
+float
+class
+application
+collection
+array
