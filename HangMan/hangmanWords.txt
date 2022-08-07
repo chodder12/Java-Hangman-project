@@ -8,3 +8,11 @@ class
 application
 collection
 array
+coding
+typing
+frontEnd
+BackEnd
+Developer
+ArrayList
+Computer
+Application
